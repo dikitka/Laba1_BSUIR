@@ -1,4 +1,5 @@
 #include <iostream>
+
 int main() {
 double touble, start, end, step;
 std::cout << "Введите начальное значение x: ";
